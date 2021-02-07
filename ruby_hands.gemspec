@@ -2,7 +2,7 @@ Gem::Specification.new do |spec|
   spec.name = "ruby_hands"
   spec.version = "0.0.0"
   spec.summary = "Ruby Hands"
-  spec.description = "A CLI trading bot"
+  spec.description = "A CLI crypto trading bot using Kraken API"
   spec.authors = ["Autumn Martin", "Sean Martin"]
   spec.files = Dir["lib/**/*"]
   spec.require_paths = ["lib"]
